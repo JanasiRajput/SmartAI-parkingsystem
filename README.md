@@ -4,7 +4,9 @@
 The **Smart Parking Friction Predictor** is designed to transform urban parking from a source of frustration into a seamless, high-end experience. By leveraging predictive intelligence, it anticipates lot congestion *before* it happens, allowing operators to manage flow and drivers to avoid the "friction" of a full lot. 
 
 Our goal is to create a frictionless urban mobility ecosystem through elegant design and advanced predictive analytics.
-
+![Parking Dashboard](pic1.png)
+![Parking Dashboard](pic2.png)
+![Parking Dashboard](pic3.png)
 ---
 
 ## 🚀 Quick Start (Simplest Steps)
